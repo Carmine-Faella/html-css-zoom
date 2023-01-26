@@ -111,3 +111,11 @@ i.green{
     padding: 0px 15px;
 }
 
+li.choise i{
+    font-size: 15px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+}
