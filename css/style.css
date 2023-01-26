@@ -9,10 +9,6 @@ body{
     color: white;
 }
 
-#cnt{
-    height: 100vh;
-}
-
 .top_bar{
     display: flex;
     justify-content: flex-end;
