@@ -55,8 +55,8 @@ a{
 }
 
 .col,img,.row{
-  width: 15vw;
-  height: 15vh;
+  width: 210px;
+  height: 120px;
 }
 
 .col{
